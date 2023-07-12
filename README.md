@@ -1,1 +1,1 @@
-TOP's Recipes project
+TOP's Recipes project. Available at https://dat9395.github.io/odin-recipes/
